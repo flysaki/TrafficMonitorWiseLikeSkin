@@ -1,8 +1,8 @@
-﻿# TrafficMonitorWiseLikeSkin
+# TrafficMonitorWiseLikeSkin
 
 A handmade skin,  
 which looks like Wise-System-Monitor,  
-for zhongyang219/TrafficMonitor (v1.83+).
+for [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) (v1.83+).
 
 ![SkinPreview](image/preview.png)
 
