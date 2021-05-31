@@ -27,3 +27,4 @@ Please be careful with file Over-Writing.
   - Click OK button to save changes.
 3. Copy this project /src/skins/TrafficMonitorSkinWise to your skin folder in your PC.  
 4. Restart TrafficMonitor and change skin to TrafficMonitorSkinWise.  
+5. Right-click TrafficMonitor, and check "Show More Info".
