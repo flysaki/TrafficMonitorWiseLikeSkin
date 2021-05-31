@@ -1,0 +1,32 @@
+﻿<root>
+	<skin>
+		<text_color>16777215,0,0,0</text_color>
+		<specify_each_item_color>0</specify_each_item_color>
+		<skin_author>flysaki</skin_author>
+		<font size="10" style="0"/>
+	</skin>
+	<layout text_height="20" no_label="0">
+		<layout_l width="424" height="25">
+			<up x="6" y="2" width="108" align="0" show="1"/>
+			<down x="103" y="2" width="110" align="0" show="1"/>
+			<cpu x="204" y="2" width="78" align="0" show="1"/>
+			<cpu_temperature x="286" y="2" width="62" align="0" show="1"/>
+			<memory x="346" y="2" width="75" align="0" show="1"/>
+			<gpu x="162" y="3" width="106" align="0" show="0"/>
+			<gpu_temperature x="32" y="83" width="94" align="0" show="0"/>
+			<hdd_temperature x="142" y="57" width="94" align="0" show="0"/>
+			<main_board_temperature x="142" y="83" width="94" align="0" show="0"/>
+		</layout_l>
+		<layout_s width="232" height="50">
+			<cpu x="14" y="3" width="106" align="0" show="1"/>
+			<memory x="88" y="3" width="106" align="0" show="1"/>
+			<gpu x="162" y="3" width="106" align="0" show="1"/>
+			<up x="14" y="27" width="106" align="0" show="1"/>
+			<down x="122" y="27" width="106" align="0" show="1"/>
+		</layout_s>
+	</layout>
+	<preview width="250" height="170">
+		<l x="0" y="0"/>
+		<s x="0" y="112"/>
+	</preview>
+</root>
