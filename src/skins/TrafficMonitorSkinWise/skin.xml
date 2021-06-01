@@ -4,6 +4,14 @@
 		<specify_each_item_color>0</specify_each_item_color>
 		<skin_author>flysaki</skin_author>
 		<font size="10" style="0"/>
+		<display_text>
+			<up>▲ </up>
+			<down>▼ </down>
+			<cpu>CPU: </cpu>
+			<memory>MEM: </memory>
+			<cpu_temperature></cpu_temperature>
+			<hdd_temperature>HDD: </hdd_temperature>
+		</display_text>
 	</skin>
 	<layout text_height="20" no_label="0">
 		<layout_l width="424" height="25">
