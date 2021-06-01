@@ -14,12 +14,15 @@ Please be careful with file Over-Writing.
 
 # How to use
 
-1. _CLEAN INSTALL_ TrafficMonitor when update from 1.80.2-.(Recommended)
-2. Open TrafficMonitor `Option Settings` again > `General Settings` tab > `Hardware Monitoring` area
+1. Open TrafficMonitor `Option Settings` again > `General Settings` tab > `Hardware Monitoring` area
   - Check CPU
   - Select Average Temperature
   - Click OK button to save changes.
-3. Copy this project /src/skins/TrafficMonitorSkinWise to your skin folder in your PC.  
-4. Restart TrafficMonitor and change skin to TrafficMonitorSkinWise.  
-5. Right-click TrafficMonitor, and check "Show More Info".
-6. You can costomize the skin if needed.
+2. Copy this project /src/skins/TrafficMonitorSkinWise to your skin folder in your PC.  
+3. Restart TrafficMonitor and change skin to TrafficMonitorSkinWise.  
+5. Right-click TrafficMonitor, and check "Show More Info". Everything got OK!
+
+
+# When you changed a skin  
+You can costomize the skin if needed.  
+But you need to DO `Change Skin...` in TrafficMonitor to apply your changes.
